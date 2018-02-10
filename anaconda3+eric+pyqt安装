@@ -5,5 +5,6 @@
 4 下载安装eric6，放在环境文件下的lib/site-packages/eric6/目录下，python install.py install。用pythonw.exe打开eric6.pyw,即可打开eric集成开发环境。
 5 如缺少designer，在环境下安装pip install PyQt5-tools。
 参考：
-https://www.jianshu.com/p/7f13e32ac900
-http://blog.sina.com.cn/s/blog_164f1f3790102wf8s.html
+https://www.jianshu.com/p/7f13e32ac900  Windows下配置Python3.5+PyQt5+Eric6.0开发环境
+http://blog.sina.com.cn/s/blog_164f1f3790102wf8s.html  完美安装 Anaconda3 + PyQt5 + Eric6
+http://blog.csdn.net/weiaitaowang/article/details/52048462  快速熟悉 PyQt5 与 Eric6 的极速 GUI 开发
