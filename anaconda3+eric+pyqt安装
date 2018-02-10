@@ -1,0 +1,9 @@
+安装注意事项
+1 安装anaconda3结束后，创建环境pyqt5，可在anaconda navigator集成环境下直接创建环境，在pyqt5环境下安装pyqt5。
+2 如anaconda3出现闪退现象，删除pyqt5目录，重新安装pyqt5，pip install PyQt5，这时下载轮子文件自动安装。
+3 pip install QScintilla
+4 下载安装eric6，放在环境文件下的lib/site-packages/eric6/目录下，python install.py install。用pythonw.exe打开eric6.pyw,即可打开eric集成开发环境。
+5 如缺少designer，在环境下安装pip install PyQt5-tools。
+参考：
+https://www.jianshu.com/p/7f13e32ac900
+http://blog.sina.com.cn/s/blog_164f1f3790102wf8s.html
